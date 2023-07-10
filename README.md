@@ -37,3 +37,7 @@ See `gen_GES_educ.do`. The output is `individual_head_educ.dta`, `individual_son
 
 ## Part 3: Transaction module – non-food expenditure - education expenses
 See `clean_transaction_educ.do`. The original datasets are household-level non-food expenditure from 2009-2014.  The output is `hh_educ_expen.dta`. 
+
+
+
+This is the readme file.
