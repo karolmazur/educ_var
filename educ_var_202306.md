@@ -1,4 +1,8 @@
-# educ_var
+# educ_var-2023-06
+
+The markdown file explains what is in the folders above.
+
+The main branch contains all files in 2023-06 (the initial version).
 
 The education-related variables in the two data reports are:
 
